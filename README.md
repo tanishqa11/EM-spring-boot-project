@@ -13,7 +13,10 @@ This project is an Employee Management System built with Spring Boot, showcasing
 
 - **Spring Boot**: For building the backend RESTful API.
 - **MySQL/PostgreSQL/Other**: Used as the underlying database to store employee data.
-
+- **Hibernate**: used by Spring Data JPA to map Java objects to database tables.
+- **Lombak**:: Lombok is a Java library that automatically generates boilerplate code like getters, setters, constructors.
+- **Postman**:Postman is a popular tool for testing RESTful API.
+- **H2 Database**: H2 is an in-memory database primarily used for testing and development purposes.
 
 ## Getting Started
 
